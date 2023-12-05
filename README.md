@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!</h1>
-<h1 align="center">Hi 👋, I'm Édito</h1>
+<h1 align="center">Hi 👋, I'm Édito Silva</h1>
 <h3 align="center">A passionate frontend fullstack from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
